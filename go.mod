@@ -3,7 +3,7 @@ module github.com/wadahiro/go-transproxy
 go 1.13
 
 require (
-	github.com/Sirupsen/logrus v1.0.2-0.20170713114250-a3f95b5c4235
+	github.com/sirupsen/logrus v1.0.2-0.20170713114250-a3f95b5c4235
 	github.com/comail/colog v0.0.0-20160416085026-fba8e7b1f46c
 	github.com/coreos/go-iptables v0.2.0
 	github.com/cybozu-go/cmd v1.5.0
